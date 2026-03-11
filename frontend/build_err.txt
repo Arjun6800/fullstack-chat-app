@@ -1,0 +1,45 @@
+﻿[36mvite v7.3.1 [32mbuilding client environment for production...[36m[39m
+transforming...
+/*! ≡ƒî╝ daisyUI 5.5.19 */
+[32mΓ£ô[39m 1038 modules transformed.
+node.exe : [31mΓ£ù[39m 
+Build failed in 3.62s
+At 
+C:\nvm4w\nodejs\npx.ps1:29 
+char:3
++   & $NODE_EXE $NPX_CLI_JS 
+$args
++   
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo           
+   : NotSpecified: ([31mΓ£  
+  ù[39m Build failed in 3   
+ .62s:String) [], RemoteE    
+xception
+    + FullyQualifiedErrorId  
+   : NativeCommandError
+ 
+[31merror during build:
+[31mCould not resolve 
+"../constants" from "src/page
+s/SettingsPage.jsx"[31m
+file: [36mD:/CHAT-APP/fronte
+nd/src/pages/SettingsPage.jsx
+[31m
+    at getRollupError (file:/
+//D:/CHAT-APP/frontend/node_m
+odules/rollup/dist/es/shared/
+parseAst.js:402:41)
+    at error (file:///D:/CHAT
+-APP/frontend/node_modules/ro
+llup/dist/es/shared/parseAst.
+js:398:42)
+    at ModuleLoader.handleInv
+alidResolvedId (file:///D:/CH
+AT-APP/frontend/node_modules/
+rollup/dist/es/shared/node-en
+try.js:21710:24)
+    at file:///D:/CHAT-APP/fr
+ontend/node_modules/rollup/di
+st/es/shared/node-entry.js:21
+670:26[39m
